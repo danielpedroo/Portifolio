@@ -1,0 +1,19 @@
+{
+  "navbar": {
+    "home": "Início",
+    "about_me": "Sobre mim",
+    "projects": "Projetos",
+    "contact": "Contato",
+    "hire_me": "Contrate-me 🧑🏽‍💻"
+  },
+  "home": {
+    "message": "Olá, eu sou",
+    "name": "Daniel Pedro",
+    "role": "Software Developer",
+    "hire_me": "Contrate-me 🧑🏽‍💻"
+  },
+  "course": {
+    "course_title": "Formação Acadêmica 🎓",
+    "course_intro": "Aqui você encontra informações sobre minha trajetória acadêmica, cursos e certificações relevantes."
+  }
+}
